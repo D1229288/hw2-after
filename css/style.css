@@ -267,9 +267,9 @@ a:focus {
 }
 
 .slider_section .detail-box .btn-box .btn-1:hover {
-  background-color: transparent;
-  border-color: #9a0007;
-  color: #ffffff;
+  background-color: #8B0000;
+  color: #FFFFFF;
+
 }
 
 .slider_section .detail-box .btn-box .btn-2 {
